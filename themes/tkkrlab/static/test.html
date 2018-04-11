@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tkkrlab</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="mqttws31.js"></script>
+    <script src="progressbar.js"></script>
+    <script src="tkkrlab.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <p>Tkkrlab - Hackerspace Enschede<br /><span class="subtitle">Op dit moment is de space <span class="space-status" id="space-status"><span class="unknown">status onbekend (...)</span></span></span></p>
+    </header>
+    <div class="sidebar">
+	<ul class="menu">
+		<li class="item"><a href="#" onClick="show('mqtt');">MQTT client</a></li>
+		<li class="item"><a href="#" onClick="show('chat');">Chat</a></li>
+	</ul>
+        <hr />
+        Topic:<br />
+        <input id="topic" name="topic" type="text" value="example" /><br />
+        Message:<br />
+        <input id="message" name="message" type="text" value="hello world" />
+        <button class="send" onclick="send()">Send!</button>
+	<br />
+        <div class="progress" id="progress1"></div>
+	<br />
+        <div class="progress" id="progress2"></div>
+    </div>
+	<div class="container" id="mqtt">
+		<h1>MQTT messages</h1>
+		<div class="content" id="mqtt-content"></div>
+	</div>
+        <div class="container" id="chat">
+		<h1>Chat</h1>
+                <div class="chat-content" id="chat-content"></div>
+                <div class="chat-content" class="chat-send">
+			  <br />
+                          <table class="chat-bar">
+                          <tr><td>Nickname: </td><td><input id="chat-nick" name="chat-nick" type="text" value="anonymous" /></td><td>&nbsp;</td></tr><tr>
+                          <td>Message:</td><td><input id="chat-message" name="chat-message" type="text" value="" /></td>
+                          <td><button class="send" onclick="chatSend()">SEND</button></td></tr>
+                </div>
+        </div>
+  </body>
+</html>

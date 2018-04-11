@@ -1,0 +1,8 @@
+{{ if not .Params.widgets }}
+	<section class="secondary">
+		{{ partial "widgets/search" . }}
+		{{ partial "widgets/categories" . }}
+		{{ partial "widgets/archive" . }}
+		{{ partial "widgets/author" . }}
+	</section>
+{{ end }}

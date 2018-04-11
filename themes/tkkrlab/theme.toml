@@ -1,0 +1,12 @@
+name = "Tkkrlab"
+license = ""
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["syntax highlighting", "rss", "widgets", "google analytics", "responsive", "carousel", "slider"]
+features = ["syntax highlighting", "rss", "widgets", "google analytics", "carousel", "responsive", "slider"]
+min_version = 0.15
+
+[author]
+  name = "Renze"
+  homepage = ""

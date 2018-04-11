@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+  {{ partial "head" . }}
+  <body>
+    <div id="page">
+      {{ partial "header" . }}
+      {{ partial "nav" . }}
+      <div class="content">
+        <div class="container">
+          {{ partial "single_article" . }}
+        </div>
+        {{ if not .Params.widgets }}
+          {{ partial "widgets" . }}
+        {{ end }}
+        {{ partial "footer" . }}
+      </div>
+    </div>
+  </body>
+</html>

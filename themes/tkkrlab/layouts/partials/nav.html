@@ -1,0 +1,30 @@
+<div class="sidebar">
+  <nav class="main-menu" role="navigation">
+    <ul class="root nav menu">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main.ByWeight }}
+      <li class="nav-item {{if $currentPage.HasMenuCurrent "main" . }}active{{end}}">
+        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+        {{ if .HasChildren }}
+        <ul class="sub">
+          {{ range .Children }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ if .HasChildren }}
+            <ul class="sub">
+              {{ range .Children }}
+              <li>
+	        <a href="{{ .URL }}">{{ .Name }}</a>
+	      </li>
+              {{ end }}
+            </ul>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>

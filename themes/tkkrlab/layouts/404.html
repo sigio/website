@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+	{{ partial "head" . }}
+	<body>
+		{{ partial "header" . }}
+		{{ partial "nav" . }}
+		<main>
+			<h1>{{with .Site.Data.l10n.page_not_found.title}}{{.}}{{end}}</h1>
+			<p>{{with .Site.Data.l10n.page_not_found.subtitle}}{{.}}{{end}}</p>
+			<h3>This might be because:</h3>
+			<ul>
+			<li>You have typed the web address incorrectly</li>
+			<li>The page you were looking for may have been moved, updated or deleted.</li>
+			</ul>
+			<h3>Please try the following:</h3>
+			<ul>
+			<li>Check for a mis-typed URL error</li>
+			<li>Press the refresh button on your browser.</li>
+			<li>Go back to <a href="/" title="{{ .Site.Title }}" rel="home">Homepage</a></li>
+			</ul>
+		</main>
+		{{ partial "footer" . }}
+	</body>
+</html>

@@ -1,0 +1,32 @@
+{{ if not .Params.meta_disable }}
+    {{ $date_format := "January 02, 2006" }}
+  
+    {{ if isset .Params "author" }}
+    <section class="author">
+		{{ $url := printf "author/%s" (.Params.author | urlize | lower) }}
+		<a class="url fn n" href="{{ $url | absURL }}">{{ .Params.author | lower }}</a>
+	</section>
+    {{ end }}
+
+    {{ if not .Params.nodateline }}
+		{{ if not .Site.Params.date_format }}
+			{{ $date_format := .Site.Params.date_format }}
+		{{ end }}
+		<time class="published-on" datetime="{{ .Date }}">
+			{{ .Date.Format $date_format }}
+		</time>
+    {{ end }}
+    
+    {{ if isset .Params "categories" }}
+		{{ $categoriesLen := len .Params.categories }}
+		{{ if gt $categoriesLen 0 }}
+			<section class="categories">
+				{{ range $k, $v := .Params.categories }}
+					{{ $url := printf "%s/%s" "categories" (. | urlize | lower) }}
+					<a class="article-category-link" href="{{ $url | absURL }}">{{ . }}</a>
+					{{ if lt $k (sub $categoriesLen 1) }},{{ end }}
+				{{ end }}
+			</section>
+		{{ end }}
+    {{ end }}
+{{ end }}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+  {{ partial "head" . }}
+  <body>
+    <div id="page">
+      {{ partial "header" . }}
+      {{ partial "nav" . }}
+      <div class="content">
+        <div class="container">
+      <section class="post">
+        {{ $paginator := .Paginate .Data.Pages }}
+          {{ range $paginator.Pages }}
+          {{ .Render "summary" }}
+        {{ end }}
+      </section>
+      </div>
+      {{ partial "pagination" . }}
+      {{ partial "widgets" . }}
+      {{ partial "footer" . }}
+      </div>
+    </div>
+  </body>
+</html>

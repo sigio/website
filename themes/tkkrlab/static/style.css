@@ -1,0 +1,251 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(opensans.woff2) 
+  format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  color: #000000;
+  font: 14px 'Open Sans', sans-serif;
+  background: url("background.png") no-repeat bottom right;
+  background-color: #fcfcfc;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.site-header {
+  position: fixed;
+  width: 100%;
+  height: 80px;
+  background: url("logo.svg") no-repeat center left;
+  background-size: 60px 60px;
+  background-color: #F0F0F0;
+  font: 20px 'Open Sans', sans-serif;
+  border-bottom: 2px solid #F3ED18;
+  padding-left: 65px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 20px;
+}
+
+.site-header p {
+	padding: 0px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.site-header p .subtitle {
+	font-size: 16px;
+}
+
+.space-status {
+	font-weight: bold;
+}
+
+.space-status .closed {
+	color: #F24718;
+}
+
+.space-status .open {
+	color: #18F27E;
+}
+
+.space-status .unknown {
+	color: #f3ed18;
+}
+
+@media screen and (min-width: 600px) {
+
+.container {
+ padding-top: 83px;
+ padding-left: 200px;
+}
+
+.sidebar {
+        position: fixed;
+        display: inline-block;
+        float: left;
+	width: 200px;
+	top: 82px;
+        bottom: 0px;
+	background-color: #f0f0f0;
+	overflow-x: hidden;
+	padding: 0px;
+}
+
+.content .item {
+        margin: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid #323335;
+        border-radius: 2px;
+        background-color: #FFFFFF;
+        padding: 5px;
+        width: 600px;
+}
+}
+@media screen and (max-width: 599px) {
+  .sidebar {
+        width: 100%;
+        background-color: #f0f0f0;
+        overflow-x: hidden;
+        padding-left: 0px; 
+        padding-right: 0px; 
+        padding-bottom: 0px; 
+        padding-top: 82px; 
+  }
+
+.content .item {
+        margin: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid #323335;
+        border-radius: 2px;
+        background-color: #FFFFFF;
+        padding: 5px;
+        width: 100%;
+}
+}
+
+.content {
+        display: inline-block;
+        padding: 10px;
+        align: center;
+}
+
+.content h1 {
+	padding: 2px;
+	margin: 0px;
+}
+
+.content hr {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+/*Yellow: #f3ed18
+Green: #18F27E
+Blue: #181FF2
+Purple: #F2188C
+
+Red: #F24718
+Yellow: #f3ed18
+Lime green: #56F218
+Blue green: #18F27E
+Light blue: #18C3F2
+Dark blue: #181FF2
+Purple: #B418F2
+Red purple: #F2188C */
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sidebar li {
+  display: block;
+  background-color: #FFFFFF;
+  margin: 0px;
+  padding: 0px;
+  border-right: #FFFFFF solid 2px;
+  border-bottom: #f0f0f0 solid 1px;
+}
+ 
+.sidebar li:hover {
+  /*background-color: #F3ED18;*/
+  border-right: #F3ED18 solid 2px;
+}
+
+.sidebar li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #000000;
+  text-decoration:none;
+  padding: 8px;
+}
+
+.sidebar li a:hover {
+  color: #F3ED18;
+}
+
+.send {
+  width: 100%;
+  background-color: #FFFFFF;
+  width: 100;
+  margin-top: 5px;
+  padding: 4px;
+}
+
+#progress1 {
+  height: 8px;
+  margin: 20px;
+}
+
+#progress2 {
+  height:100px;
+  margin: 20px;
+}
+
+.progress svg {
+  height: 100%;
+  display: block;
+}
+
+#chat {
+  display: none;
+}
+
+@media screen and (min-width: 600px) {
+  .chat-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background-color: #FFFFFF;
+  }
+} else {
+  .chat-content {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: #FFFFFF;
+  }
+}
+
+#chat table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #000000;
+}
+
+#chat-content table {
+  width: 100%;
+}
+
+#chat td {
+  height: 20px;
+}
+
+#chat .sender {
+  background-color: #f0f0f0;
+  width: 60px;
+}
+
+.chat-bar {
+  background-color: #000000;
+  color: #f3ed18;
+}
+
+.chat-bar button {
+    background-color: #f3ed18;
+  color: #000000;
+}
