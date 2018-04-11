@@ -1,3 +1,3 @@
-# Hackerspaces.nl website
+# Tkkrlab website
 
 Rendered with [Hugo](https://gohugo.io/)
