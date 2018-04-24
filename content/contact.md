@@ -17,11 +17,10 @@ Om meerdere redenen: nee. Wat je wilt is mogelijk illegaal en ethisch-hackers zu
 Voor alle andere vragen kun je contact opnemen met <bestuur@tkkrlab.nl>
 
 # Contact
-
 	
-We zijn dinsdagavond vanaf 19:00 open, je kunt dan zonder afspraak komen.
+Wanneer het Tkkrlab geopend is ben je altijd welkom! Als je rechtsboven ‘Geopend’ ziet staan is er iemand aanwezig. Het is wel verstandig om ons eerst even een bericht te sturen (via IRC of Telegram) of te bellen. Dan weet je zeker dat er mensen aanwezig zijn om je te ontvangen.
  
-Als je rechtsboven ‘Geopend’ ziet staan is er iemand aanwezig, je zou via irc kunnen vragen of het gelegen komt om te komen kijken.
+We zijn dinsdagavond vanaf 19:00 altijd open, je kunt dan zonder afspraak komen.
  
 Telefoon : 06-10745590 (Alleen bereikbaar indien iemand aanwezig in TkkrLab) 
 Email : <bestuur@tkkrlab.nl>
