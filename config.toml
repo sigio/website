@@ -1,8 +1,10 @@
 baseurl = "/"
 languageCode = "nl-NL"
+defaultContentLanguage = "nl"
 title = "TkkrLab"
 paginate = 5
-theme = "tkkrlab"
+#theme = "tkkrlab"
+theme = "Mainroad"
 
 logo = "/site_header.png"
 
@@ -10,16 +12,19 @@ enableRobotsTXT = true
 SectionPagesMenu = "main"
 canonifyURLs = true
 
-[params]
-  description="TkkrLab hackerspace"
+[Params]
+  subtitle = "Hackerspace Enschede"
+  description = "TkkrLab hackerspace"
   powered_by = ""
   hide_author = true
   images = []
-  author = "HSNL"
+  author = "Tkkrlab"
   copyright = ""
   avatar = "css/images/avatar.png"
-  logo = "site_header.png"
-  date_format = "January 02, 2006"
+  date_format = "02-01-2006"
+  readmore = true
+  post_navigation = true
+  postSections = ["post","projects"]
   
 [social]
   twitter = "tkkrlab"
@@ -35,3 +40,15 @@ canonifyURLs = true
   name = "Contact"
   url = "/contact"
   weight = 2
+
+[Params.widgets]
+    search = false
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false
+    newsletter = true
+    contact = true
+    meta = true
+    twitter = true
