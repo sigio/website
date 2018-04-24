@@ -9,8 +9,10 @@ theme = "tkkrlab-mainroad"
 logo = "/site_header.png"
 
 enableRobotsTXT = true
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 canonifyURLs = true
+
+googleAnalytics = "UA-610785-7"
 
 [Params]
   subtitle = "Hackerspace Enschede"
@@ -25,16 +27,32 @@ canonifyURLs = true
   readmore = true
   post_navigation = true
   postSections = ["post","projects"]
-  
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact"
-  weight = 2
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projecten"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]  
+    name = "Agenda"
+    url = "https://tkkrlab.nl/wiki/TkkrLab:Current_events"
+    weight = 5
+
+  [[menu.main]]
+    name = "Wiki"
+    url = "https://www.tkkrlab.nl/wiki"
+    weight = 6
 
 [Params.widgets]
     search = false
