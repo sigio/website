@@ -26,11 +26,6 @@ canonifyURLs = true
   post_navigation = true
   postSections = ["post","projects"]
   
-[social]
-  twitter = "tkkrlab"
-  github = "tkkrlab"
-  feed = "/index.xml"
-
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -52,3 +47,9 @@ canonifyURLs = true
     contact = true
     meta = true
     twitter = true
+    social_facebook = "TkkrLab"
+    social_twitter = "tkkrlab"
+    social_github = "tkkrlab"
+    social_youtube = "TkkrLab"
+    social_flickr = "TkkrLab"
+    social_linkedin = "groups/3906596"
