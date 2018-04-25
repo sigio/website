@@ -26,7 +26,7 @@ googleAnalytics = "UA-610785-7"
   date_format = "02-01-2006"
   readmore = true
   post_navigation = true
-  postSections = ["post","projects"]
+  postSections = ["nieuws","projects"]
 
 [menu]
   [[menu.main]]
@@ -35,8 +35,8 @@ googleAnalytics = "UA-610785-7"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "Nieuws"
+    url = "/nieuws/"
     weight = 1
 
   [[menu.main]]
@@ -44,10 +44,10 @@ googleAnalytics = "UA-610785-7"
     url = "/projects/"
     weight = 3
 
-  [[menu.main]]  
-    name = "Agenda"
-    url = "https://tkkrlab.nl/wiki/TkkrLab:Current_events"
-    weight = 5
+  #[[menu.main]]  
+  #  name = "Agenda"
+  #  url = "https://tkkrlab.nl/wiki/TkkrLab:Current_events"
+  #  weight = 5
 
   [[menu.main]]
     name = "Wiki"
