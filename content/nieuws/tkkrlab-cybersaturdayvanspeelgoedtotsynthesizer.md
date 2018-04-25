@@ -1,8 +1,9 @@
 ---
 title: "CyberSaturday  Van speelgoed tot synthesizer"
 date: 2017-07-15T10:07:31+02:00
+thumbnail: "/nieuws/van_speelgoed_tot_synthesizer.jpg"
 ---
-![](https://tkkrlab.nl/wordpress/wp-content/uploads/2017/07/Van_speelgoed_tot_synthesizer-200x300.jpg)
+![](/nieuws/van_speelgoed_tot_synthesizer.jpg)
 
 Iedere 3e zaterdag van de even maand zullen we een lezing / activiteit organiseren met aansluitend gelegenheid om bij TkkrLab met een eigen project aan de slag te gaan.
 
@@ -17,5 +18,3 @@ Na het event is er ruime gelegenheid om met een eigen project aan de slag te gaa
 Voor meer informatie, zie onze wiki.
 
 De volgende [CyberSaturday](https://tkkrlab.nl/wiki/CyberSaturday) zullen zijn op 21 Oktober en 16 December (Lockpicken)
-<!--more-->
-[Lees meer bij Tkkrlab&raquo;](https://tkkrlab.nl/wordpress/cybersaturday-van-speelgoed-tot-synthesizer_2017_07_15)

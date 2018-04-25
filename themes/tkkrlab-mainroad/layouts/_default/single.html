@@ -22,9 +22,9 @@
 			{{- end }}
 		</header>
 		<div class="post__content clearfix">
-			{{- if .Params.thumbnail }}
+			{{- if .Params.image }}
 			<figure class="post__thumbnail">
-				<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+				<img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
 			</figure>
 			{{- end }}
 			{{ .Content }}

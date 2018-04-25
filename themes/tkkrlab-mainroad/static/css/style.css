@@ -629,6 +629,10 @@ select {
 	margin-bottom: 1.25rem;
 }
 
+.page-content a {
+  font-weight: bold;
+}
+
 .meta {
 	font-size: 13px;
 	font-size: 0.8125rem;

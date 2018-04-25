@@ -1,8 +1,9 @@
 ---
 title: "CyberSaturday  Greymanproject"
 date: 2017-05-29T21:05:31+02:00
+thumbnail: "/nieuws/greymanproject.jpg"
 ---
-![](https://tkkrlab.nl/wordpress/wp-content/uploads/2017/05/greymanproject-1024x530.jpeg)
+![](/nieuws/greymanproject.jpg)
 
 Iedere 3e zaterdag van de even maand zullen we een lezing / activiteit organiseren met aansluitend gelegenheid om bij TkkrLab met een eigen project aan de slag te gaan.
 
@@ -13,5 +14,3 @@ Na de lezing is er ruime gelegenheid om met een eigen project aan de slag te gaa
 Reserveer svp een plek via [Meetup](https://www.meetup.com/tkkrlab/events/240368542/) of stuur ons een [email](mailto:bestuur@tkkrlab.nl)
 
 De volgende CyberSaturday zijn gepland op 19 Augustus, 21 Oktober en 16 December, zet ze alvast in je agenda.
-<!--more-->
-[Lees meer bij Tkkrlab&raquo;](https://tkkrlab.nl/wordpress/cybersaturday-greymanproject_2017_05_29)
