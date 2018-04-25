@@ -9,7 +9,7 @@ menu:
     weight: 4
 ---
 
-Vragen over illigale activiteiten zullen niet beantwoord worden! Zie ook onze [FAQ](/faq).
+Vragen over illigale activiteiten zullen niet beantwoord worden! Zie ook de hackerspaces [FAQ](https://hackerspaces.nl/faq/).
 
 ### Belangrijkste vraag uit de FAQ
 
@@ -43,3 +43,6 @@ IRC is bij voorkeur een chat programma die door hackers gebruikt wordt.
 Als je iemand wil bereiken noem dan zijn naam en wacht lang genoeg (minimaal 30 minuten)
 Onze irc kanaal is op [freenode netwerk](irc://freenode.net/tkkrlab), channel ```#tkkrlab```.
 Heb je geen IRC client kun je deze [webclient](http://webchat.freenode.net/?randomnick=1&channels=%23tkkrlab&uio=d4) gebruiken.
+
+# Wiki
+Voor meer informatie zie [onze wiki](https://tkkrlab.nl/w/index.php/Communication).

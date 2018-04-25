@@ -52,7 +52,7 @@ googleAnalytics = "UA-610785-7"
   [[menu.main]]
     name = "Wiki"
     url = "https://www.tkkrlab.nl/wiki"
-    weight = 6
+    weight = 7
 
 [Params.widgets]
     search = false
