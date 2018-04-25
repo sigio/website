@@ -18,6 +18,10 @@ html {
   overflow-y: scroll;
 }
 
+em {
+  font-style: italic;
+}
+
 .twitter_feed {
   font-size: 12px;
   color: #2A2A2A;
