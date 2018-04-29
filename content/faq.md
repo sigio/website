@@ -1,6 +1,5 @@
 ---
 title: FAQ
-date: 2018-01-28T00:00:00+02:00
 nodateline: true
 noprevnext: true
 disable_comments: true
