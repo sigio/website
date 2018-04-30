@@ -8,10 +8,10 @@ menu:
     weight: 6
 ---
 
-## Wat is het TkkrLab ?
+## Wat is het TkkrLab?
 TkkrLab (uit te spreken als Tukker-Lab) is een werkplaats waar geeks bij elkaar komen om leuke dingen te doen. De meeste members hebben overdag een (drukke) baan en komen bij het TkkrLab voor hun ontspanning.
 
-## Ik heb grandioos [bedrijfs|kunst] idee, kunnen jullie dit voor mij maken ?
+## Ik heb grandioos [bedrijfs|kunst] idee, kunnen jullie dit voor mij maken?
 Het Tkkrlab zelf is geen organisatie waaraan je een opdracht kunt geven. Zoals aangegeven komt het grootste deel van onze deelnemers bij TkkrLab voor hun ontspanning en niet om te werken. Echter, je bent van harte welkom om bij ons te komen polsen voor animo voor je idee onder onze leden. Wellicht zijn er dan TkkrLab deelnemers die jouw idee zo goed/leuk/spannend/uitdagend vinden dat ze je willen helpen. Onze insteek is dat je zelf met je projecten aan de slag gaat, eventueel met wat hulp van andere deelnemers.
 
 Een voorbeeld van een [project](http://tkkrlab.nl/wiki/Projects) dat we hebben gedaan is het schrijven van [Arduino workshops](http://tkkrlab.nl/wiki/Workshop_Arduino) die we op de Gogbot geven. Andere projecten kan je terugvinden op onze [wiki](https://tkkrlab.nl/wiki/Projects) en op de [projecten pagina](/projects).
