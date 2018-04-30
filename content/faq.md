@@ -8,13 +8,13 @@ menu:
     weight: 6
 ---
 
-## Wat is TkkrLab ?
-TkkrLab (uit te spreken als Tukker-Lab) is een stichting waar geeks bij elkaar komen om leuke dingen te doen. De meeste members hebben overdag een (drukke) baan en komen bij TkkrLab voor hun ontspanning.
+## Wat is het TkkrLab ?
+TkkrLab (uit te spreken als Tukker-Lab) is een werkplaats waar geeks bij elkaar komen om leuke dingen te doen. De meeste members hebben overdag een (drukke) baan en komen bij het TkkrLab voor hun ontspanning.
 
 ## Ik heb grandioos [bedrijfs|kunst] idee, kunnen jullie dit voor mij maken ?
-We zijn geen bedrijf of instelling die je een opdracht kunt geven, zoals aangegeven de meesten komen bij TkkrLab voor hun ontspanning, niet om te werken. Echter je bent van harte welkom om bij ons te komen polsen voor animo voor je idee onder onze leden, wellicht zijn er dan TkkrLab members die dit zo goed/leuk/spannend/uitdagend vinden dat ze je willen helpen. Onze insteek is wel dat je het zelf je aan de slag gaat, eventueel met wat hulp van onze leden.
+Het Tkkrlab zelf is geen organisatie waaraan je een opdracht kunt geven. Zoals aangegeven komt het grootste deel van onze deelnemers bij TkkrLab voor hun ontspanning en niet om te werken. Echter, je bent van harte welkom om bij ons te komen polsen voor animo voor je idee onder onze leden. Wellicht zijn er dan TkkrLab deelnemers die jouw idee zo goed/leuk/spannend/uitdagend vinden dat ze je willen helpen. Onze insteek is dat je zelf met je projecten aan de slag gaat, eventueel met wat hulp van andere deelnemers.
 
-Voorbeeld van een [project](http://tkkrlab.nl/wiki/Projects) die we hebben gedaan is de [Arduino workshops](http://tkkrlab.nl/wiki/Workshop_Arduino) die we op de Gogbot geven.
+Een voorbeeld van een [project](http://tkkrlab.nl/wiki/Projects) dat we hebben gedaan is het schrijven van [Arduino workshops](http://tkkrlab.nl/wiki/Workshop_Arduino) die we op de Gogbot geven. Andere projecten kan je terugvinden op onze [wiki](https://tkkrlab.nl/wiki/Projects) en op de [projecten pagina](/projects).
 
 We zijn iedere dinsdagavond vanaf 19:00 open, kom gerust langs als je vragen of ideeën hebt.
 
