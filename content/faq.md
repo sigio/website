@@ -7,7 +7,6 @@ menu:
   main:
     weight: 6
 ---
-# FAQ
 
 ## Wat is TkkrLab ?
 TkkrLab (uit te spreken als Tukker-Lab) is een stichting waar geeks bij elkaar komen om leuke dingen te doen. De meeste members hebben overdag een (drukke) baan en komen bij TkkrLab voor hun ontspanning.
