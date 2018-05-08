@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
-    weight: 4
+    weight: 99999
 ---
 
 Vragen over illigale activiteiten zullen niet beantwoord worden! Zie ook de hackerspaces [FAQ](https://hackerspaces.nl/faq/).
