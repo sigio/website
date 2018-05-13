@@ -48,6 +48,11 @@ googleAnalytics = "UA-610785-7"
   #  name = "Agenda"
   #  url = "https://tkkrlab.nl/wiki/TkkrLab:Current_events"
   #  weight = 5
+  
+  [[menu.main]]  
+    name = "Arduino cursus"
+    url = "https://arduino.tkkrlab.space"
+    weight = 6
 
   [[menu.main]]
     name = "Wiki"
