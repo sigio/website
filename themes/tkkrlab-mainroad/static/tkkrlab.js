@@ -112,9 +112,10 @@ function onMessageArrived(message) {
 	} else {
 		elem.innerHTML = state_prefix+"<span class='unknown'>"+String(message.payloadString)+"</span>";
 	}
-  } else if (message.destinationName.startsWith("metrics/") {
+  } else if (message.destinationName.startsWith("metrics/")) {
     var parts = message.destinationName.split('/');
     var name  = parts[parts.length-1];
+    console.log("Received metrics for "+name);
     if (name in progress) progress[name].animate(Number(message.payloadString/100));
   } else if (message.destinationName=="chat") {
     drawChat(message.payloadString);
@@ -126,7 +127,8 @@ function onMessageArrived(message) {
 }
 
 function progressCreate() {
-  if (document.getElementById("#progress1")!=null) {
+  if (document.getElementById("progress1")!=null) {
+    console.log("Found progress1!");
     progress['test1'] = new ProgressBar.Line('#progress1', {
       strokeWidth: 4,
       color: '#F3ED18',
@@ -136,9 +138,12 @@ function progressCreate() {
       trailWidth: 1 
     });
     progress['test1'].animate(0);
+  } else {
+    console.log("No progress #1!");
   }
 
-  if (document.getElementById("#progress2")!=null) {
+  if (document.getElementById("progress2")!=null) {
+    console.log("Found progress2!");
     progress['test2'] = new ProgressBar.SemiCircle('#progress2', {
       strokeWidth: 8,
       color: '#F3ED18',
@@ -159,9 +164,10 @@ function progressCreate() {
         bar.text.style.color = state.color;
       }
     });
+    progress['test2'].animate(0);
+  } else {
+    console.log("No progress #2!");
   }
-
-  progress['test2'].animate(0);
 }
 
 window.onload = function onLoad() {
@@ -172,6 +178,6 @@ window.onload = function onLoad() {
   }
   mqttClientCreate();
   mqttClientConnect();
-  //progressCreate();
+  progressCreate();
   drawChat();
 }
