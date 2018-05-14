@@ -6,7 +6,7 @@ var progress = [];
 var client = null;
 
 function mqttClientCreate() {
-  client = new Paho.MQTT.Client('mqtt.tkkrlab.space', Number(443), "website-"+String(Math.floor((Math.random() * 10000) + 1)));
+  client = new Paho.MQTT.Client("mqtt."+window.location.host.split('.').slice(-2).join('.'), Number(443), "website-"+String(Math.floor((Math.random() * 10000) + 1)));
   client.onConnectionLost = onConnectionLost;
   client.onMessageArrived = onMessageArrived;
 }
@@ -17,8 +17,8 @@ function mqttOnConnect() {
 }
 
 function mqttDoFail(e){
-  alert("MQTT subsystem has encountered an error: "+e);
-  console.log("MQTT: ",e);
+  //alert("MQTT subsystem has encountered an error: "+e);
+  console.log("MQTT subsystem has encountered an error:",e);
 }
 
 function mqttClientConnect() {
@@ -112,9 +112,9 @@ function onMessageArrived(message) {
 		elem.innerHTML = state_prefix+"<span class='unknown'>"+String(message.payloadString)+"</span>";
 	}
   } else if (message.destinationName=="test/progress1") {
-    progress[0].animate(Number(message.payloadString/100));
+    //progress[0].animate(Number(message.payloadString/100));
   } else if (message.destinationName=="test/progress2") {
-    progress[1].animate(Number(message.payloadString/100));
+    //progress[1].animate(Number(message.payloadString/100));
   } else if (message.destinationName=="chat") {
     drawChat(message.payloadString);
   } else {
@@ -155,8 +155,8 @@ function progressCreate() {
     }
   }));
 
-  progress[0].animate(1);
-  progress[1].animate(1);
+  //progress[0].animate(1);
+  //progress[1].animate(1);
 }
 
 window.onload = function onLoad() {
@@ -167,7 +167,7 @@ window.onload = function onLoad() {
   }
   mqttClientCreate();
   mqttClientConnect();
-  progressCreate();
+  //progressCreate();
   drawChat();
 }
 
