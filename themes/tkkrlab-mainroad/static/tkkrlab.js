@@ -2,7 +2,7 @@
 
 const state_prefix = "Tkkrlab is nu ";
 
-var progress = [];
+var progress = {};
 var client = null;
 
 function mqttClientCreate() {
@@ -81,7 +81,7 @@ function drawChat(newMsg="") {
     while (chat.length > 20) {
       chat.shift(1);
     }
-    var chatLines = "<table>";
+    var chatLines = "";//"<table>";
     for (var i = 0; i<chat.length; i++) {
       var sender = "";
       var message = "<i>Failed to parse message.</i>";
@@ -91,9 +91,10 @@ function drawChat(newMsg="") {
       } catch(err) {
         console.log('chat parse error',err);
       }
-      chatLines = chatLines + "<tr><td class='sender'>" + sender + "</td><td class='message'>" + message + "</td></tr>";
+      //chatLines = chatLines + "<tr><td class='sender'>" + sender + "</td><td class='message'>" + message + "</td></tr>";
+      chatLines = chatLines + "<strong>" + sender + "</strong " + message + "<br />";
     }
-    chatLines = chatLines + "</table>";
+    //chatLines = chatLines + "</table>";
     var elem = document.getElementById("chat-content");
     elem.innerHTML = chatLines;  
 }
@@ -111,10 +112,10 @@ function onMessageArrived(message) {
 	} else {
 		elem.innerHTML = state_prefix+"<span class='unknown'>"+String(message.payloadString)+"</span>";
 	}
-  } else if (message.destinationName=="test/progress1") {
-    //progress[0].animate(Number(message.payloadString/100));
-  } else if (message.destinationName=="test/progress2") {
-    //progress[1].animate(Number(message.payloadString/100));
+  } else if (message.destinationName.startsWith("metrics/") {
+    var parts = message.destinationName.split('/');
+    var name  = parts[parts.length-1];
+    if (name in progress) progress[name].animate(Number(message.payloadString/100));
   } else if (message.destinationName=="chat") {
     drawChat(message.payloadString);
   } else {
@@ -125,38 +126,42 @@ function onMessageArrived(message) {
 }
 
 function progressCreate() {
-  progress.push(new ProgressBar.Line('#progress1', {
-    strokeWidth: 4,
-    color: '#F3ED18',
-    duration: 1400,
-    easing: 'easeInOut',
-    trailColor: '#F0F0F0',
-    trailWidth: 1 
-  }));
+  if (document.getElementById("#progress1")!=null) {
+    progress['test1'] = new ProgressBar.Line('#progress1', {
+      strokeWidth: 4,
+      color: '#F3ED18',
+      duration: 1400,
+      easing: 'easeInOut',
+      trailColor: '#F0F0F0',
+      trailWidth: 1 
+    });
+    progress['test1'].animate(0);
+  }
 
-  progress.push(new ProgressBar.SemiCircle('#progress2', {
-    strokeWidth: 8,
-    color: '#F3ED18',
-    duration: 1400,
-    easing: 'easeInOut',
-    trailColor: '#F0F0F0',
-    trailWidth: 1,
-    from: {color: '#FFEA82'},
-    to: {color: '#ED6A5A'},
-    step: (state, bar) => {
-      bar.path.setAttribute('stroke', state.color);
-      var value = Math.round(bar.value() * 100);
-      if (value === 0) {
-        bar.setText('');
-      } else {
-        bar.setText(value);
+  if (document.getElementById("#progress2")!=null) {
+    progress['test2'] = new ProgressBar.SemiCircle('#progress2', {
+      strokeWidth: 8,
+      color: '#F3ED18',
+      duration: 1400,
+      easing: 'easeInOut',
+      trailColor: '#F0F0F0',
+      trailWidth: 1,
+      from: {color: '#FFEA82'},
+      to: {color: '#ED6A5A'},
+      step: (state, bar) => {
+        bar.path.setAttribute('stroke', state.color);
+        var value = Math.round(bar.value() * 100);
+        if (value === 0) {
+          bar.setText('');
+        } else {
+          bar.setText(value);
+        }
+        bar.text.style.color = state.color;
       }
-      bar.text.style.color = state.color;
-    }
-  }));
+    });
+  }
 
-  //progress[0].animate(1);
-  //progress[1].animate(1);
+  progress['test2'].animate(0);
 }
 
 window.onload = function onLoad() {
@@ -169,15 +174,4 @@ window.onload = function onLoad() {
   mqttClientConnect();
   //progressCreate();
   drawChat();
-}
-
-function show(tab) {
-  document.getElementById("chat").style.display = "none";
-  document.getElementById("mqtt").style.display = "none";
-  if (tab=="mqtt") {
-    document.getElementById("mqtt").style.display = "block";
-  }
-  if (tab=="chat") {
-    document.getElementById("chat").style.display = "block";
-  }
 }
