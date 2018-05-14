@@ -26,7 +26,8 @@ googleAnalytics = "UA-610785-7"
   date_format = "02-01-2006"
   readmore = true
   post_navigation = true
-  postSections = ["nieuws","projects"]
+  #postSections = ["nieuws","projects"]
+  postSections = ["nieuws"]
 
 [menu]
   [[menu.main]]
