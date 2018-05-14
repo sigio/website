@@ -1,1 +1,0 @@
-const initial_status = 1;
