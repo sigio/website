@@ -118,11 +118,11 @@ function onMessageArrived(message) {
     console.log("Received metrics for "+name);
     if (name in progress) progress[name].animate(Number(message.payloadString/100));
   } else if (message.destinationName=="chat") {
-    drawChat(message.payloadString);
+    //drawChat(message.payloadString);
   } else {
     console.log("Message received",message.destinationName,message.payloadString);
-    elem = document.getElementById("mqtt-content");
-    elem.innerHTML = "<div class='item'><strong>"+message.destinationName+":</strong> "+message.payloadString+"</div>" + elem.innerHTML;
+    //elem = document.getElementById("mqtt-content");
+    //elem.innerHTML = "<div class='item'><strong>"+message.destinationName+":</strong> "+message.payloadString+"</div>" + elem.innerHTML;
   }
 }
 
