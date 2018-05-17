@@ -21,15 +21,32 @@ We zijn iedere dinsdagavond vanaf 19:00 open, kom gerust langs als je vragen of 
 ## Jullie zijn hackers, kunnen jullie [email|software|systeem] hacken?
 Kort antwoord : **Nee**
 
-We zijn hackers in het brede zin van het woord, dus creatief met technologie. Wat jij zoekt is een cracker of computer crimineel, dat is illegaal en doen we dus ook niet en is ook niet toegestaan volgens onze huisregels. Als wij het over hacken hebben dat bedoelen we binnen de wettelijke regels onderzoeken van (computer) technieken. Mensen die met computer security bezig zijn noemen we ‘ethical hacker‘ of ‘white hat hackers‘.
+Binnen de community van maker- en hackerspaces heeft het woord hacker nog zijn originele betekenis. De volgende quote van Wikipedia geeft een duidelijke omschrijving:
+
+> In bepaalde technisch georiënteerde subculturen is een hacker een persoon die geniet van de intellectuele uitdaging om op een creatieve en onorthodoxe manier aan technische beperkingen te ontsnappen;
+> bijvoorbeeld een goede programmeur. Een hacker hoeft niet per se iets met computers te doen, het kan bijvoorbeeld evengoed een houtbewerker zijn die innovatieve ideeën heeft.
+> In deze subculturen wordt het gebruik van de woorden hacker en hacken door en voor computerinbrekers als misbruik van de term gezien; zij worden crackers, krakers of script kiddies genoemd.
+> Script kiddies worden veelal gezien als nephackers, omdat zij de code van internet af kopiëren. 
+>
+> \- [Wikipedia](https://nl.wikipedia.org/wiki/Hacker#Omschrijving)
+
+We zijn dus hackers in het brede zin van het woord, creatief met technologie dus.
+Als je iemand zoekt om op een computersysteem in te breken dan ben je bij ons aan het verkeerde adres, Wat jij dan zoekt is een cracker of computer crimineel.
+Inbreken in computersystemen is illegaal en dat doen we dus ook niet. Illegale handelingen uitvoeren is ook niet toegestaan volgens onze huisregels.
+Als wij het over hacken hebben dat bedoelen we binnen de wettelijke regels onderzoeken van (computer) technieken.
+Mensen die met computer security bezig zijn noemen we ‘ethical hacker‘ of ‘white hat hackers‘.
 
 ## Wat is een ethical hacker / white hat hacker?
-Een ethical hacker is een computer security specialist die in opdracht systemen controleert op bugs of andere fouten. Het belangrijkste van een ethical hacker is o.a. ‘responsible disclosure’ dwz dat als je een lek/bug/etc vind dit ook doorgeeft aan de eigenaar van de site/software zodat deze er wat aan kan doen. Een cyber crimineel zou een gevonden bug nooit doorgeven, deze wil deze zo lang mogelijk voor eigen gewin misbruiken.
+Een ethical hacker is een computer security specialist die in opdracht systemen controleert op bugs of andere fouten.
+Het belangrijkste van een ethical hacker is o.a. ‘responsible disclosure’ dwz dat als je een lek/bug/etc vind dit ook doorgeeft aan de eigenaar van de site/software zodat deze er wat aan kan doen.
+Een crimineel zou een gevonden bug nooit doorgeven, deze wil de bugs zo lang mogelijk voor zijn eigen gewin misbruiken.
 
 ## Ik wil leren hacken, hoe doe ik dat?
-Eric Raymond, een open source source guru, heeft een [FAQ](http://www.catb.org/~esr/faqs/hacker-howto.html) (vertaling in [Nederlands](https://tkkrlab.nl/wiki/Hoe_word_ik_een_hacker)) hierover geschreven. In eerste instantie is een hacker iemand die een bepaalde mindset heeft, techniek (programmeertaal of platform) komt pas op een tweede plaats. Kort gezegd zou je het volgende kunnen doen :
+Eric Raymond, een open source source guru, heeft een [FAQ](http://www.catb.org/~esr/faqs/hacker-howto.html) (vertaling in [Nederlands](https://tkkrlab.nl/wiki/Hoe_word_ik_een_hacker)) hierover geschreven. In eerste instantie is een hacker iemand die een bepaalde mindset heeft, techniek (programmeertaal of platform) komt pas op een tweede plaats.
 
-### Leer programmeren
-* Gebruik een open source Unix, bijvoorbeeld Unbuntu
-* Leer hoe je websites werken (HTML, Javascript, etc)
-* Zorg ervoor dat je Engels machtig bent. 
+Kort gezegd zou je het volgende kunnen doen:
+
+* Gebruik een open source Unix, bijvoorbeeld Ubuntu
+* Leer hoe je websites kunt maken (HTML, Javascript, etc)
+* Leer programmeren in andere talen (Python, Node.js of C/C++ bijvoorbeeld)
+* Zorg ervoor dat je Engels kunt.

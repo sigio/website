@@ -15,8 +15,8 @@ canonifyURLs = true
 googleAnalytics = "UA-610785-7"
 
 [Params]
-  subtitle = "Hackerspace Enschede"
-  description = "TkkrLab hackerspace"
+  subtitle = "Makerspace Enschede"
+  description = "TkkrLab makerspace"
   powered_by = ""
   hide_author = true
   images = []

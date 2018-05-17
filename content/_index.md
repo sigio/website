@@ -31,4 +31,4 @@ Kijk in onze [agenda](/agenda/) voor meer informatie over evenementen en meeting
 Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) om te zien hoe je ons kunt bereiken.
 <br />
 <br />
-Om een impressie te krijgen over hackerspaces in het algemeen [kijk deze video](http://youtu.be/wamwklXWK4M).
+Om een impressie te krijgen over maker- en hackerspaces in het algemeen [kijk deze video](http://youtu.be/wamwklXWK4M).
