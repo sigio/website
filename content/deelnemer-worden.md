@@ -118,7 +118,7 @@ Op dit moment participeren de volgende hackerspaces in deze constructie:
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
  - [Tkkrlab](https://www.tkkrlab.nl)
 
-# Hoe wordt je deelnemer?
+# Hoe word je deelnemer?
 
 Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou natuurlijk).
 
