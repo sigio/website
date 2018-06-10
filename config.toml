@@ -44,6 +44,11 @@ googleAnalytics = "UA-610785-7"
     name = "Projecten"
     url = "/projects/"
     weight = 3
+    
+  [[menu.main]]  
+    name = "Deelnemer worden"
+    url = "/deelnemer-worden"
+    weight = 4
 
   #[[menu.main]]  
   #  name = "Agenda"
