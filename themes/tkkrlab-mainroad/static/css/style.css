@@ -706,6 +706,14 @@ select {
 	text-decoration: none;
 }
 
+.menu__link {
+	text-decoration: none;
+}
+
+.widget__link {
+	text-decoration: none;
+}
+
 .post__content a:hover, .list__excerpt a:hover, .warning a:hover {
 	text-decoration: underline;
 }
