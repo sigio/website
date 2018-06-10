@@ -89,6 +89,7 @@ Met ingang van 1 april 2018 biedt Tkkrlab bijzondere tarieven voor mensen die al
 
 ### Definitie van "hackerspace" (of "makerspace")
 Onze definitie van een space omvat:
+
  - De organisatie noemt zichzelf consequent "hackerspace" of "makerspace".
  - De hackerspace heeft een eigen ruimte (die eventueel enkele dagdelen per week onderverhuurd wordt aan andere leuke initiatieven).
  - Deelnemers kunnen 24/7 (of bijna 24/7) naar binnen met een eigen sleutel.
@@ -98,6 +99,7 @@ Onze definitie van een space omvat:
 Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van Tkkrlab!
 
 De volgende hackerspaces voldoen:
+
  - ACKspace
  - Bhack
  - Bitlair
@@ -112,6 +114,7 @@ De volgende hackerspaces voldoen:
 NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen, maar we hopen dat andere spaces wel meedoen. Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
 
 Op dit moment participeren de volgende hackerspaces in deze constructie:
+
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
  - [Tkkrlab](https://www.tkkrlab.nl)
 
@@ -120,6 +123,7 @@ Op dit moment participeren de volgende hackerspaces in deze constructie:
 Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou natuurlijk).
 
 Meld je vervolgens aan via de volgende stappen:
+
  - Kom minimaal 3 x op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
  - Lees de "Huisregels".
  - Vul [dit](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) formulier in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
