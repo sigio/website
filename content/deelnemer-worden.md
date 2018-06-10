@@ -1,16 +1,8 @@
----
-title: Deelnemer worden
-nodateline: true
-noprevnext: true
-disable_comments: true
-menu:
-  main:
-    weight: 4
----
+
 
 Op bezoek komen mag natuurlijk altijd. Maar als je ons kent, regelmatig komt en echt gebruik wilt gaan maken van de voorzieningen in het Tkkrlab vragen wij je deelnemer te worden.
 
-Alle deelnemers zijn gelijk in zijn rechten en plichten, dus ook het bestuur van TkkrLab moet dezelfde taken uitvoeren als iedere andere deelnemer.
+Alle deelnemers zijn gelijk in zijn rechten en plichten, dus ook het bestuur van Tkkrlab moet dezelfde taken uitvoeren als iedere andere deelnemer.
 
 De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting betaald de huur en zorgt voor inrichting. Deelnemers kunnen in ruil voor hun maandelijkse deelnemersbijdrage gebruik maken van de voorizeningen van het Tkkrlab.
 
@@ -56,7 +48,7 @@ Een normale deelnemer betaald € 25,- per maand.
 
 ## Bedrijf
 
-Als bedrijf kan je ook deelnemer worden van het TkkrLab. Het bedrijf krijgt dan een iButton (niet persoonsgebonden) waarmee je bij TkkrLab naar binnen kunt als de space open is. Je kunt dan gebruik maken van al onze apparatuur (Laser, 3D printer, Arduino etc.). Tevens wordt je bedrijf opgenomen op onze sponsoren pagina, wat je naams bekend maakt bij een interessante groep van actieve techneuten.
+Als bedrijf kan je ook deelnemer worden van het TkkrLab. Het bedrijf krijgt dan een iButton (niet persoonsgebonden) waarmee je bij Tkkrlab naar binnen kunt als de space open is. Je kunt dan gebruik maken van al onze apparatuur (Laser, 3D printer, Arduino etc.). Tevens wordt je bedrijf opgenomen op onze sponsoren pagina, wat je naams bekend maakt bij een interessante groep van actieve techneuten.
 
 De maandelijkse bijdrage voor bedrijven is € 49,95 per maand.
 
@@ -76,7 +68,7 @@ Het is daarvoor wel nodig dat de ouder(s) van de junior deelnemer langs zijn gew
 Verdere uitzonderingen, zoals volledige toegang met een eigen sleutel, kunnen in overleg met het bestuur worden besproken.
 
 ## Deelnemer van meerdere hackerspaces
-Met ingang van 1 april 2018 biedt TkkrLab bijzondere tarieven voor mensen die al bij een andere Nederlandse hackerspace lid of deelnemer zijn. Op die manier willen we aanmoedigen dat mensen betrokken raken bij meerdere hackerspaces, zonder dat dat financieel te pijnlijk wordt.
+Met ingang van 1 april 2018 biedt Tkkrlab bijzondere tarieven voor mensen die al bij een andere Nederlandse hackerspace lid of deelnemer zijn. Op die manier willen we aanmoedigen dat mensen betrokken raken bij meerdere hackerspaces, zonder dat dat financieel te pijnlijk wordt.
 
 ### Voorwaarden
  - Bij minimaal 1 andere hackerspace betaal je minimaal € 25 per maand.
@@ -95,7 +87,7 @@ Onze definitie van een space omvat:
  - De space wordt beheerd door een bij de KvK ingeschreven stichting of vereniging.
  - Deelnemerschap is in beginsel open voor alle geïnteresseerden.
 
-Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van TkkrLab!
+Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van Tkkrlab!
 
 De volgende hackerspaces voldoen:
  - ACKspace
@@ -107,7 +99,7 @@ De volgende hackerspaces voldoen:
  - Pixelbar
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
  - TechInc
- - [(Tkkrlab)](https://www.tkkrlab.nl)
+ - [Tkkrlab](https://www.tkkrlab.nl)
 
 NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen, maar we hopen dat andere spaces wel meedoen. Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
 
@@ -117,21 +109,21 @@ Op dit moment participeren de volgende hackerspaces in deze constructie:
 
 # Hoe wordt je deelnemer?
 
-Bezoek TkkrLab op zijn minst een paar keer om ons te leren kennen (en wij jou natuurlijk).
+Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou natuurlijk).
 
 Meld je vervolgens aan via de volgende stappen:
- - Kom minimaal 3 x op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of TkkrLab wat voor je is.
+ - Kom minimaal 3 x op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
  - Lees de "Huisregels".
  - Vul [dit](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) formulier in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
- - Na het controleren van je gegevens krijg je een bevestiging (mondeling, via email of op een andere manier) dat je deelnemer bent geworden van het TkkrLab. Als dit niet binnen een week is gebeurt vraag dan een van de bestuursleden wat de status is.
- - Maak een automatische betaling aan voor de 15e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting TkkrLab.
+ - Na het controleren van je gegevens krijg je een bevestiging (mondeling, via email of op een andere manier) dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurt vraag dan een van de bestuursleden wat de status is.
+ - Maak een automatische betaling aan voor de 15e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
  - Je krijgt een eigen sleutel na de eerste betaling. Voor de sleutel vragen we € 5 borg.
  - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl) of stuur een email naar members-join@tkkrlab.nl
  - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op general hackerspaces.nl.
 
 # Opzegging
 
-Indien je wil opzeggen stuur dan een email aan bestuur@tkkrlab.nl. De opzegging gaat dan per direct in, mits al je betalingsverplichtingen voldaan zijn. Indien je betalingsachterstand hebt moet je deze eerst  voldoen, daarnaast mag je barsaldo niet negatief zijn.
+Indien je wil opzeggen stuur dan een email aan bestuur@tkkrlab.nl. De opzegging gaat dan per direct in, mits al je betalingsverplichtingen voldaan zijn. Indien je betalingsachterstand hebt moet je deze eerst  voldoen, daarnaast mag je barsaldo niet negatief zijn. Ook moet de sleutel worden ingeleverd.
 
 # Sponsoren & Donaties
 Indien je eenmalig een schenking aan ons wilt doen (indien gewenst anoniem) neem dan [contact op met het bestuur](mailto:bestuur@tkkrlab.nl) voor meer informatie.
