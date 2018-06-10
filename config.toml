@@ -45,10 +45,10 @@ googleAnalytics = "UA-610785-7"
     url = "/projects/"
     weight = 3
     
-  [[menu.main]]  
-    name = "Deelnemer worden"
-    url = "/deelnemer-worden"
-    weight = 4
+  #[[menu.main]]  
+  #  name = "Deelnemer worden"
+  #  url = "/deelnemer-worden"
+  #  weight = 4
 
   #[[menu.main]]  
   #  name = "Agenda"
