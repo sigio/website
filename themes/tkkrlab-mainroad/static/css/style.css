@@ -714,11 +714,11 @@ select {
 	text-decoration: none;
 }
 
-.list__title {
+.list__title a {
 	text-decoration: none;
 }
 
-.post__title {
+.post__title a {
 	text-decoration: none;
 }
 
