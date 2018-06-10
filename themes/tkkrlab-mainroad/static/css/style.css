@@ -718,6 +718,10 @@ select {
 	text-decoration: none;
 }
 
+.post__title {
+	text-decoration: none;
+}
+
 .post__content a:hover, .list__excerpt a:hover, .warning a:hover {
 	text-decoration: underline;
 }
