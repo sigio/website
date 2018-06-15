@@ -722,6 +722,14 @@ select {
 	text-decoration: none;
 }
 
+.logo a {
+  text-decoration: none;
+}
+
+.menu__toggle {
+  text-decoration: none;
+}
+
 .btn {
 	text-decoration: none;
 }
