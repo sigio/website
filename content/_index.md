@@ -9,26 +9,16 @@ disable_comments: true
 # Wat is het Tkkrlab?
 
 <img style="float: right; margin: 5px;" src="/homepage_photo.jpg">
-Het TkkrLab (Tukkerlab) bestaat uit een groep mensen die geïnteresseerd zijn in o.a.
-digitale techniek en programmeren, kortom geeks. We komen hiervoor bij elkaar in onze
-eigen space. We werken samen aan [projecten](/projects/) of kletsen gezellig met elkaar onder genot
-van een Club-Mate in onze lounge hoek. Zie ook het artikel in de [TC Tubantia](http://tkkrlab.nl/w/index.php/TC_Tubantia_31_Dec_2011) voor een
-goede indruk van onze space.
-<br />
-<br />
-Onze [space](http://tkkrlab.nl/w/index.php/Space_2.0) heeft ook een eigen werkplaats waar je kan solderen en projecten in elkaar
-kan bouwen. Tevens verzorgen wij ook workshops over onderwerpen zoals de Arduino,
-open source software, privacy, security, electronica etc.
+TkkrLab (Tukkerlab) is een <a href="http://tkkrlab.nl/wiki/Space_5.0" target="_blank">space</a> waar de deelnemers en bezoekers onze beschikbare apparatuur zoals lasercutter, 3d printer en Arduino kunnen (leren) gebruiken. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creative [projecten](/projects/).
 <br />
 <br />
 TkkrLab is **iedere dinsdagavond open** voor iedereen. Interesse? Je bent van harte welkom!
 <br />
 <br />
-Kijk in onze [agenda](/agenda/) voor meer informatie over evenementen en meetings. We hebben ook een
-[blog](/nieuws/) waar de de laatste nieuwtjes op plaatsen.
+Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/nieuws/) waar de de laatste nieuwtjes op plaatsen.
 <br />
 <br />
 Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) om te zien hoe je ons kunt bereiken.
 <br />
 <br />
-Om een impressie te krijgen over maker- en hackerspaces in het algemeen [kijk deze video](http://youtu.be/wamwklXWK4M).
+Om een impressie te krijgen over maker- en hackerspaces in het algemeen <a href="http://youtu.be/wamwklXWK4M" target="_blank">kijk deze KQED video</a> of <a href="https://www.youtube.com/watch?v=nsiYTBQpIJ8" target="_blank">hackerspace Noisebridge video</a> .

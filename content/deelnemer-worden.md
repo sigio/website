@@ -15,19 +15,14 @@ Alle deelnemers zijn gelijk in zijn rechten en plichten, dus ook het bestuur van
 De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting betaald de huur en zorgt voor inrichting. Deelnemers kunnen in ruil voor hun maandelijkse deelnemersbijdrage gebruik maken van de voorizeningen van het Tkkrlab.
 
 # Wat krijg je als deelnemer van het Tkkrlab
- - 24/7 toegang tot de space
- - Een persoonlijke electronische sleutel (iButton, € 5,00 borg)
- - Ledenprijzen voor de Club-Mate, frisdrank en andere versnaperingen
- - Een eigen (Samla) bak zodat je je eigendommen in de space kunt bewaren
+ - 24/7 toegang tot de space.
+ - Een persoonlijke electronische sleutel (iButton, € 5,00 borg).
+ - Een eigen (Samla) bak zodat je je eigendommen in de space kunt bewaren.
+ - Ledenprijzen voor verbruiksgoederen (voor laser & 3d printer) en consumpties.
  - Gratis gebruik van kleine elektronische componenten (weerstanden, condensatoren, e.d.)
- - Gratis gebruik van de reflow oven
- - Gebruik van de lasercutter
- - Lage prijzen voor materiaal (hout, plexiglas) voor in de lasercutter
- - Gebruik van de CNC
- - Gebruik van de 3D printers
- - Lage prijzen voor materiaal (fillament) voor in de 3D printers
- - Toegang tot ons interne netwerk met oa de digitale versie van Make magazine
- - Toegang tot onze space WiFi en het wereldwijde SpaceFed WiFi netwerk
+ - Gebruik van onze lasercutter, CNC, 3d pinter, reflow oven en andere gereedschap.
+ - Digitale versie van Make magazine.
+ - Toegang tot onze space WiFi, intern netwerk en het SpaceFed WiFi netwerk.
 
 # Kosten
 
@@ -39,11 +34,10 @@ De stichting Tkkrlab maakt kosten voor onder andere de huur van de ruimte en de 
 | Student                                  | € 15,-                         |
 | Junior (<18 jaar)                        | € 15,-                         |
 | Bedrijf                                  | € 49,95                        |
-| Al lid van 1 andere hackerspace          | € 19,84                        |
-| Al lid van 2 of meer andere hackerspaces | € 13,37                        |
-
 
 Mocht je deelnemer willen worden maar hiervoor niet de middelen hebben neem dan contact op met bestuur, wellicht kunnen we toch wat regelen.
+
+Als je al lid bent van 1 of meerdere spaces kun je gebruik maken van de [multi-deelnemer korting](/multi-deelnemerschap/).
 
 Meer details over de verschillende deelnemersvormen worden hier onder gegeven.
 
@@ -75,48 +69,6 @@ Voor junior deelnemers die 16 jaar of ouder zijn is het ook mogelijk een sleutel
 Het is daarvoor wel nodig dat de ouder(s) van de junior deelnemer langs zijn geweest bij de space om schriftelijk toestemming te geven. Daarnaast mogen er geen bezwaren van van het bestuur zijn.
 Verdere uitzonderingen, zoals volledige toegang met een eigen sleutel, kunnen in overleg met het bestuur worden besproken.
 
-## Deelnemer van meerdere hackerspaces
-Met ingang van 1 april 2018 biedt Tkkrlab bijzondere tarieven voor mensen die al bij een andere Nederlandse hackerspace lid of deelnemer zijn. Op die manier willen we aanmoedigen dat mensen betrokken raken bij meerdere hackerspaces, zonder dat dat financieel te pijnlijk wordt.
-
-### Voorwaarden
- - Bij minimaal 1 andere hackerspace betaal je minimaal € 25 per maand.
- - Je bent bij de andere hackerspace(s) volwaardig deelnemer (dus geen "vriend van"- of "junior deelnemer"-constructies).
- - De andere hackerspace(s) vallen binnen onze definitie van "hackerspace". Zie hieronder.
- - We gaan uit van je eerlijkheid en dat je ons op de hoogte houdt van relevante wijzigingen.
- - Het bestuur heeft het recht om deze kortingsconstructie zonder aankondiging vooraf weer te beëindigen. (Uiteraard mag je je deelnemerschap altijd opzeggen.)
-
- Je moet de korting zelf aanvragen bij inschrijving, of achteraf via het bestuur. Meld daarbij welke space je primaire space is (dus waar je ≥ 25 €/maand betaalt), en eventueel welke je secundaire space is. De korting geldt dan vanaf de eerstvolgende kalendermaand.
-
-### Definitie van "hackerspace" (of "makerspace")
-Onze definitie van een space omvat:
-
- - De organisatie noemt zichzelf consequent "hackerspace" of "makerspace".
- - De hackerspace heeft een eigen ruimte (die eventueel enkele dagdelen per week onderverhuurd wordt aan andere leuke initiatieven).
- - Deelnemers kunnen 24/7 (of bijna 24/7) naar binnen met een eigen sleutel.
- - De space wordt beheerd door een bij de KvK ingeschreven stichting of vereniging.
- - Deelnemerschap is in beginsel open voor alle geïnteresseerden.
-
-Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van Tkkrlab!
-
-De volgende hackerspaces voldoen:
-
- - ACKspace
- - Bhack
- - Bitlair
- - Frack
- - Hack42
- - NURDspace
- - Pixelbar
- - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
- - TechInc
- - [Tkkrlab](https://www.tkkrlab.nl)
-
-NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen, maar we hopen dat andere spaces wel meedoen. Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
-
-Op dit moment participeren de volgende hackerspaces in deze constructie:
-
- - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
- - [Tkkrlab](https://www.tkkrlab.nl)
 
 # Hoe word je deelnemer?
 
@@ -124,14 +76,14 @@ Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou na
 
 Meld je vervolgens aan via de volgende stappen:
 
- - Kom minimaal 3 x op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
- - Lees de "Huisregels".
+ - Kom minimaal een paar keer op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
+ - Lees de <a href="https://tkkrlab.nl/wiki/Huisregels" target="_blank">Huisregels</a>.
  - Vul [dit](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) formulier in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
  - Na het controleren van je gegevens krijg je een bevestiging (mondeling, via email of op een andere manier) dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurt vraag dan een van de bestuursleden wat de status is.
  - Maak een automatische betaling aan voor de 15e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
  - Je krijgt een eigen sleutel na de eerste betaling. Voor de sleutel vragen we € 5 borg.
- - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl) of stuur een email naar members-join@tkkrlab.nl
- - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op general hackerspaces.nl.
+ - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
+ - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op [general hackerspaces.nl](http://lists.hack42.nl/listinfo/general).
 
 # Opzegging
 
