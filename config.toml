@@ -4,7 +4,7 @@ defaultContentLanguage = "nl"
 title = "TkkrLab"
 paginate = 5
 #theme = "tkkrlab"
-theme = "tkkrlab-mainroad"
+theme = "tkkrlab-mainroad-comicsans"
 
 logo = "/site_header.png"
 

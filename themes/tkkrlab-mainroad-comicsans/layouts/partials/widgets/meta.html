@@ -1,0 +1,13 @@
+{{- if or .Site.Params.widgets.newsletter }}
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Meta</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+		<ul>
+			<li><a href="/nieuws/index.xml" class="underline">RSS feed (Nieuws)</a></li>
+			<li><a href="/projects/index.xml" class="underline">RSS feed (Projecten)</a></li>
+		</ul>
+		</div>
+	</div>
+</div>
+{{- end }}
