@@ -29,6 +29,7 @@ Telefoon : 06-10745590 (Alleen bereikbaar indien iemand aanwezig in TkkrLab)
 Email : <bestuur@tkkrlab.nl>
 
 Kvk : 51974967
+
 RSIN : 850247913
 
 # Adres
