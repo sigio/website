@@ -28,6 +28,9 @@ We zijn dinsdagavond vanaf 19:00 altijd open, je kunt dan zonder afspraak komen.
 Telefoon : 06-10745590 (Alleen bereikbaar indien iemand aanwezig in TkkrLab) 
 Email : <bestuur@tkkrlab.nl>
 
+Kvk : 51974967
+RSIN : 850247913
+
 # Adres
 Bedrijfsverzamelgebouw Spinnerij Oosterveld
 Rigtersbleek Zandvoort 10
