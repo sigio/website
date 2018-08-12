@@ -8,7 +8,7 @@ theme = "tkkrlab-mainroad"
 
 logo = "/site_header.png"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 #SectionPagesMenu = "main"
 canonifyURLs = true
 
