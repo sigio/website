@@ -21,8 +21,7 @@ De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting 
  - Ledenprijzen voor verbruiksgoederen (voor laser & 3d printer) en consumpties.
  - Gratis gebruik van kleine elektronische componenten (weerstanden, condensatoren, e.d.)
  - Gebruik van onze lasercutter, CNC, 3d pinter, reflow oven en andere gereedschap.
- - Digitale versie van Make magazine.
- - Toegang tot onze space WiFi, intern netwerk en het SpaceFed WiFi netwerk.
+ - Toegang tot onze space WiFi en intern netwerk.
 
 # Kosten
 
