@@ -9,6 +9,8 @@ thumbnail: "/nieuws/domotica.jpg"
 
 Aan de hand van werkende voorbeelden in TkkrLab laten we zien wat de mogelijkheden zijn van domotica. We hebben o.a. onze lampen, open/dicht status, koelkast, entreedeur en meer via o.a. Zigbee, MQTT en ander technieken geautomatiseerd. Indien je zelf al hardware hebt zoals nodeMCU of andere domotica neem deze mee. Na de uitleg is er voldoende gelegenheid om hier mee aan de slag te gaan.
 
+Deze CyberSaturday vind plaats op 15 December 14:00 bij TkkrLab in de Spinnerij.
+
 Je kunt je [hier inschrijven](https://docs.google.com/forms/d/1z0k9cU7E4ca_VlMECBMCr9fcQTziltpLaKuqE-tawgk).
 
 Voor meer informatie zie onze [wiki.](https://tkkrlab.nl/wiki/CyberSaturday_:_15_December_2018)
